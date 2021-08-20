@@ -7,7 +7,7 @@ class Defisb
 
     }
 
-    //Écrivez une fonction qui renvoie vrai si deux tours peuvent s'attaquer l'une à l'autre, et faux sinon. (str_split)
+    //Écrivez une fonction qui renvoie vrai si deux tours peuvent s'attaquer l'une à l'autre. (str_split) ['E8', 'F3']
     public static function canCapture($arr)
     {
 
